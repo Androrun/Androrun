@@ -1,0 +1,26 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;  
+}
+
+h2 {
+    text-align: center; 
+    padding-top: 50px;
+}
+
+.card{
+    text-align: justify;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.borde{
+    border: 1px solid black;
+    }
